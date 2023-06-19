@@ -1,0 +1,6 @@
+python-dotenv
+s3fs
+pandas
+requests
+sqlalchemy==1.4.46
+psycopg2-binary

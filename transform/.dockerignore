@@ -1,0 +1,7 @@
+csv/
+data/
+venv/
+.env
+.gitignore
+Dockerfile
+.dockerignore

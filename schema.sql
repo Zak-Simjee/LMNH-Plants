@@ -1,0 +1,5 @@
+CREATE DATABASE plant;
+\c plant
+CREATE SCHEMA raw;
+CREATE SCHEMA daily;
+CREATE SCHEMA historical;
